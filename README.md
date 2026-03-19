@@ -9,6 +9,7 @@ This repository contains a presentation-ready school website built with plain HT
 ## Live Site
 
 - GitHub Pages URL: `https://techsathya.github.io/JayaTechnoSchool/`
+- Deployment trigger: Pages enabled on GitHub
 
 ## Project Structure
 

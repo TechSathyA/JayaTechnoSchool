@@ -420,6 +420,19 @@ textarea {
   color: var(--muted);
 }
 
+.form-feedback {
+  margin: 0;
+  font-weight: 700;
+}
+
+.form-feedback[data-state='success'] {
+  color: var(--success);
+}
+
+.form-feedback[data-state='error'] {
+  color: #b42318;
+}
+
 .page-hero {
   padding: 4rem 0;
 }

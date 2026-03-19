@@ -138,6 +138,12 @@ img {
   cursor: pointer;
 }
 
+.nav-toggle::before {
+  content: 'Menu';
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -485,6 +491,12 @@ textarea {
   font-size: 1.6rem;
   box-shadow: 0 14px 28px rgba(37, 211, 102, 0.28);
   z-index: 40;
+}
+
+.whatsapp-float::before {
+  content: 'WA';
+  font-size: 1rem;
+  font-weight: 700;
 }
 
 .notice-strip {
